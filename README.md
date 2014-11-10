@@ -1,7 +1,7 @@
 WinTimer
 ========
 
-A simple timer for Windows
+A simple timer for Windows. It's technically written in C++, but pretty much all of it is Windows specific, so it feels different than most C++ programs.
 
 Features
 ========
